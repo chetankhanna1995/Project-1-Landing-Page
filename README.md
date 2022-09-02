@@ -20,6 +20,6 @@ Css
 - Margin
 - Padding
 - Position
-- Flex-Box
+- Flot
 
 ![](./thumbnail.png)
